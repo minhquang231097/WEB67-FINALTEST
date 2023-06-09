@@ -1,0 +1,2 @@
+export const YOUR_SECRET_KEY =
+   'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwicGFzc3dvcmQiOiJNaW5kWEAyMDIyIn0.Jh7IgotYcZBqlcPDyzwx2j_XN7o_7fUy6-1H1W283nM';
